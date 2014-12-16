@@ -1,6 +1,6 @@
 # Build settings
 
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
 timezone: Asia/Tehran
 encoding: utf-8
