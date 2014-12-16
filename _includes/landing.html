@@ -1,0 +1,16 @@
+<section id="landing">
+	<div class="blurb_container">
+		
+		<h1>I am <span class="name">Rasoul Baghban</span></h1>
+		<h3>Knowledge Worker | Project Management Practitioner | Agile Thinker </h3>
+		<hr>
+		
+		<div class="landing_nav">
+			{% for item in site.data.settings.landing_nav %}
+				<a href="{{ item.url }}" class="landing_nav_link"> {{ item.name }}</a>
+			{% endfor %}
+		</div>
+
+	</div>
+</section>
+

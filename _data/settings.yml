@@ -1,0 +1,20 @@
+# landing page settings
+# ----------------------
+
+landing_nav:
+- {name: Farsi Blog, url: "blog.html"}
+- {name: Medium, url: 'http://rasoul.me/en-blog/'}
+- {name: Linkedin, url: 'ir.linkedin.com/pub/rasoul-baghban-pmp/48/766/510/'}
+- {name: Twitter, url: 'http://twitter.com/rbaghban/'}
+- {name: Contact, url: "/contact" }
+- {name: About Me, url: "about.html"}
+
+
+# Farsi Header
+# ----------------------
+contact_links:
+- {name: Home, url: ""}
+- {name: Farsi Blog, url: "fa-blog.html"}
+- {name: Resume, url: "resume.html"}
+- {name: About Me, url: "about.html"}
+

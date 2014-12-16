@@ -1,0 +1,42 @@
+---
+---
+
+{% include html_top1.html %}
+
+	<title> Rasoul.me > Contact Me </title>
+	<link rel="stylesheet" href="/assets/css/contact.css" />
+
+{% include html_top2.html %}
+
+
+
+<header id="contact-header">
+	
+	<div class="wrapper">
+		<h1>Rasoul.me > Contact</h1>	
+	</div>
+
+	<nav class="contact_links_wrapper">
+		<div class="contact_links">
+			{% for item in site.data.settings.contact_links %}
+				<a href="{{ item.url }}">{{ item.name }}</a>
+			{% endfor %}
+		</div>
+			
+	</nav>
+
+</header>
+
+<section class="contact_info">
+	
+	<div class="email">
+		<a href=""><img src="" alt=""></a>
+		<h3>Please send your email to rasoul.baghban on gmail.</h3>	
+	</div>
+
+	div.
+
+</section>
+
+
+{% include html_bottom.html %}
