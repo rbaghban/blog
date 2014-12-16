@@ -4,7 +4,7 @@
 landing_nav:
 - {name: Farsi Blog, url: "blog.html"}
 - {name: Medium, url: 'http://rasoul.me/en-blog/'}
-- {name: Linkedin, url: 'ir.linkedin.com/pub/rasoul-baghban-pmp/48/766/510/'}
+- {name: Linkedin, url: 'http://ir.linkedin.com/pub/rasoul-baghban-pmp/48/766/510/'}
 - {name: Twitter, url: 'http://twitter.com/rbaghban/'}
 - {name: Contact, url: "/contact" }
 - {name: About Me, url: "about.html"}
